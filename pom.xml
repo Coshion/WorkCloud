@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>workcloud-app</module>
         <module>workcloud-common</module>
         <module>workcloud-manage</module>
         <module>workcloud-oauth</module>
